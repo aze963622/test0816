@@ -18,6 +18,9 @@ git remote add origin https://github.com/.....
 上传到远程库
 git push -u origin master
 
+克隆远程库的项目到本地
+git clone git@github.com:.......
+
 
 
 
