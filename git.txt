@@ -12,8 +12,11 @@ git status
 上传指定XXX文件到  本地版本库
 git commit -m ‘XXX’
 
+与远程仓库关联
+git remote add origin https://github.com/.....
+
 上传到远程库
-git push origin master
+git push -u origin master
 
 
 
