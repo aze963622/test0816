@@ -3,4 +3,16 @@ git 的使用
 创建一个本地版本库
 git init 
 
+提交到暂存区
+git add 
+
+文件在暂存区的状态
+git status 
+
+git push origin master
+
+
+上传指定XXX
+git commit -m ‘XXX’
+
 
