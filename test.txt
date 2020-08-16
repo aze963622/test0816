@@ -1,0 +1,1 @@
+C:\Program Files\TortoiseGit\bin\TortoiseGitPlink.exe
